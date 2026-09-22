@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/32478147/README.md)
 # 🤖 AI Restaurant Customer Service & Order Automation
 
 An AI-powered restaurant automation workflow built with **n8n**, **Telegram**, **LLM**, **Supabase Vector Store**, **OpenAI Embeddings**, and **Google Sheets**.
@@ -435,14 +434,13 @@ Potential extensions include:
 - Automated customer follow-ups
 
 ## 👨‍💻 Author
+---
 
 ## Workflow
 <img width="1920" height="850" alt="image" src="https://github.com/user-attachments/assets/b673c0e4-9a99-4d6e-83ae-b6242f25d6c8" />
 
 
-**Ahmed Elagamy**  
-AI Automation Specialist & Information Systems Engineer
 
-GitHub: `https://github.com/3GAMY181`
+
 
 
